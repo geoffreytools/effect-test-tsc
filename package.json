@@ -1,0 +1,15 @@
+{
+  "name": "test-tsc",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@effect/data": "^0.14.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
